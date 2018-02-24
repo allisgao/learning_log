@@ -1,7 +1,6 @@
 dj-database-url==0.4.2
 dj-static==0.0.6
 django==2.0.2
--e git+https://git.heroku.com/mighty-harbor-16554.git@104acfd0d1dd1cdc8f5d9ba38535a24681b509f0#egg=django_bootstrap3&subdirectory=django-bootstrap3-master
 gunicorn==19.7.1
 pytz==2017.3
 static3==0.7.0
